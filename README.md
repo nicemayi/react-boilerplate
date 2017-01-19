@@ -10,4 +10,7 @@ npm test
 webpack
 
 ## Dev:
-## node server.js
+node server.js
+
+Welcome any pull-requests.
+Contact me at wangzhe.dut@gmail.com
